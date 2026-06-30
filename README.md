@@ -1,12 +1,22 @@
-# Bruma Café & Brunch
+# Barber Studio - Web con reservas TidyCal
 
-Sitio web demo para cafetería creado para portfolio de LC Web Studio.
+Web demo de barbería con calendario integrado de TidyCal.
 
-## Archivos
+## Link de reservas integrado
+https://tidycal.com/luischiruzzopose/reserva
+
+## Estructura
 - index.html
-- styles.css
+- style.css
 - script.js
-- assets/
+- assets/logo.jfif
+- assets/barberia-1.jfif
+- assets/barberia-2.jfif
+- assets/barberia-3.jfif
 
-## Publicación
-Subir todo el contenido de esta carpeta a GitHub y desplegar en Vercel.
+## Publicar en Vercel
+1. Subí todos los archivos a un repositorio nuevo de GitHub.
+2. Entrá a Vercel.
+3. Add New → Project.
+4. Elegí el repositorio.
+5. Deploy.
